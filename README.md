@@ -1,6 +1,6 @@
 # Truth-Dare-Android-App
 ## Android P with Machine Learning Apps By learncodeonline.in
-### Assignment2: Truth Dare Android App
+### Assignment 02: Truth Dare Android App
 
 On the click of button "Spin Bottle" bottle will spin with random number of degree.
 
