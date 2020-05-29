@@ -8,6 +8,6 @@ On the click of button "Spin Bottle" bottle will spin with random number of degr
 - Android Studio
 - Support for API 21 and above 
 
-<img src="TruthDareGif.gif" width="350" height="650" />
+<img src="TruthDareGif.gif" width="250" height="350" />
 
 >Note: Also included Adobe XD file of logo.
